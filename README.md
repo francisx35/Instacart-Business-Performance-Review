@@ -48,5 +48,17 @@ Align staffing schedules with peak operational hours
 Use sales trend analysis for proactive inventory planning
 Run clearance promotions during low-demand months
 
+instacart.sql - SQL database structure and loading script
+Instacart.pbix - Full interactive Power BI report
+Instacart - Project.pdf - Executive summary and presentation slides
+
+📌 Outcome – What I Learned
+
+- How to model, transform, and analyze retail data using SQL and Power BI
+- Best practices for building actionable dashboards and business storytelling
+- How to segment customers and products using DAX and conditional logic
+- Translating business objectives into data insights for stakeholder impact
+
+
 
 Created by Francis Emenike
